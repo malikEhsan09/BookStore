@@ -25,7 +25,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-  https://github.com/malikEhsan09/BookStore.git
+   https://github.com/malikEhsan09/BookStore.git
    ```
 
 2. Navigate into the project directory:
